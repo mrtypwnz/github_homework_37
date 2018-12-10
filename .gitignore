@@ -2,3 +2,5 @@ venv
 *.sqlite3
 __pycache__
 .idea
+.DS_Store
+__MACOSX
